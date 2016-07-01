@@ -1,0 +1,15 @@
+{
+  "name": "gauthify",
+  "version": "1.0.0",
+  "description": "gauthify using node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aravind",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*",
+    "node-mailer":"*"
+  }
+}
